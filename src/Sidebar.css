@@ -1,0 +1,42 @@
+/*  src/Sidebar.css  */
+.Sidebar {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 2em;
+    margin-bottom: 2em;
+    color: #fff;
+    text-align: center;
+    line-height: 2;
+
+  }
+
+  .Sidebar-Main {
+    color: #999999;
+    font-size: xx-large;
+    font-weight:1000;
+    font-kerning: initial;
+    font-family: 'Autumn';
+  }
+
+  .Sidebar-Subtitle {
+    color: rgba(255, 255, 255, 0.75);
+  }
+
+  .Sidebar-Area {
+    
+  }
+
+  .Sidebar .nav-link {
+    display: inline-block;
+    padding: 0.5em 1em;
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .Sidebar .nav-link-active {
+    color:#c98860;
+  }

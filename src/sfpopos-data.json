@@ -1,0 +1,92 @@
+[
+  {
+     "title":"Sculpture name",
+     "desc":"Located in the shadow of the Transamerica Pyramid, Redwood Park is one of the Financial District's greenest and most serene spots. Here, towering redwoods surround a half acre of statues and a large central water feature. Plus, the park is often empty, which means there's almost always a bench available for the hogging. Potential visitors take note: The park is closed every evening",
+     "address":"600 Montgomery St San Francisco, CA",
+     "images":[
+        "20150409_112541.jpg"
+     ],
+     "website":"https://pyramidcenter.com/point-of-interest/redwood-park/",
+     "features":[
+        "outdoors",
+        "coffee"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"Empire Park is a charming little oasis tucked away on Commercial Street, where Chinatown meets the Financial District. This space was once an alleyway, and now features plenty of seating, a fountain, and ample amounts of greenery. The park is a must-visit for anyone needing respite from the busy streets of downtown. Be sure to check out the charming water feature by Pepo Pichler in the courtyard.",
+     "address":"648 Commercial St San Francisco, CA",
+     "images":[
+        "20150409_112804.jpg"
+     ],
+     "website":"https://www.artandarchitecture-sf.com/empire-park.html",
+     "features":[
+        "outdoors",
+        "art"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"Right across the street from 101 California's giant POPOS is the plaza at 50 California Street. This green space comes complete with a Starbucks and lots of areas to sit and watch the cable cars clang down California.",
+     "address":"50 California St San Francisco, CA 94111",
+     "images":[
+        "20150409_112827.jpg"
+     ],
+     "features":[
+        "outdoors",
+        "toilet"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"Right across the street from 101 California's giant POPOS is the plaza at 50 California Street. This green space comes complete with a Starbucks and lots of areas to sit and watch the cable cars clang down California.",
+     "address":"275 Battery St San Francisco, CA 94111",
+     "images":[
+        "20150409_113657.jpg"
+     ],
+     "features":[
+        "outdoors",
+        "toilet",
+        "coffee"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"The terrace at 343 Sansome Street is one of the FiDi's best-kept secrets, and it's also been called downtown's best outdoor lunch spot. It features tables, benches, planters filled with seasonal flowers, and views of a portion of the bay. Plenty of the space's Yelp reviews mention that it's never crowded. The space is open from 10 a.m. to 5 p.m. Monday through Friday.",
+     "address":"343 Sansome St San Francisco, CA",
+     "images":[
+        "20150409_113832.jpg"
+     ],
+     "opens":"10am",
+     "closes":"5pm",
+     "features":[
+        "outdoors"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"The Garden Terrace at 150 California has great views of the FiDi's gleaming office towers, and plenty of space to sit and take in some fresh air. A huge metal art installation adds some pizzazz to the terrace, and it's rarely ever crowded.",
+     "address":"150 California St San Francisco, CA",
+     "images":[
+        "20200519_211047.jpg"
+     ],
+     "features":[
+        "outdoors",
+        "art",
+        "coffee"
+     ]
+  },
+  {
+     "title":"Sculpture name",
+     "desc":"101 California has the most expansive public plaza on California Street. The space features orderly rows of planters placed on terraced podiums, as well as a central fountain and seating.",
+     "address":"101 California St San Francisco, CA",
+     "images":[
+        "IMG_0246.jpg"
+     ],
+     "features":[
+        "outdoors",
+        "art",
+        "coffee"
+     ]
+  }
+]

@@ -1,0 +1,35 @@
+.details-area {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details-img {
+    height: 500px;
+    width: auto;
+  }
+
+
+.button {
+  background-size: 500%;
+  border: none;
+  box-shadow: 0 .5rem 1rem rgba(0,0,.15,.15);
+  color: $white;
+  cursor: pointer;
+  height: 3rem;
+  letter-spacing: .05em;
+  width: 10rem;
+  border-radius: 12px;
+  font-size: 12px;
+}
+    
+.button:hover {
+    color: $grey;
+}
+
+
+
+    
+
+

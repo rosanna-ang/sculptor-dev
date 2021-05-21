@@ -1,24 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import Contact from './Contact';
+import ArtList from './ArtList';
+import About from './About';
+import Sidebar from './Sidebar';
+import ArtDetails from './ArtDetails'
+import { HashRouter as Router, Route } from 'react-router-dom'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <div className = "one">
+        <Sidebar />
+        </div>
+        <div className = "two">
+        <Route exact path="/" component={ArtList}/>
+        <Route path="/details/:id" component={ArtDetails} />
+        <Route path="/about" component={About}/>
+        <Route path="/contact" component={Contact}/>
+
+        </div>
+        
+      </div>
+    </Router>
   );
 }
 

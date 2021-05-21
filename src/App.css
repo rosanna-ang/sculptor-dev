@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  padding: 2em;
+
+  font-family: 'Stencil';
 }
 
 .App-logo {
@@ -28,11 +31,44 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p{
+
+  font-family: 'Arial light';
+  line-height: 1.6;
 }
+
+
+h2 {
+  color:#c98860;
+}
+
+
+.one {
+  width: 20%;
+  float: left;
+}
+
+.two {
+  margin-left: 20%;
+}
+
+@font-face {
+  font-family: Autumn;
+  font-weight: bold;
+  src: url("./fonts/Halimun-W7jn.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: Stencil;
+  font-weight: bold;
+  src: url("./fonts/Existence-StencilLight.otf") format("opentype");
+}
+
+
+.img-thumb {
+  object-fit: cover;
+  width:220px;
+  height:220px;
+}
+
+
